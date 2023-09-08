@@ -16,12 +16,12 @@ Clone da repo and re-add the redacted info:
 
 Commands to run:
 1. `sudo pacman -S htop opendoas`
-    1. - `sudo cp "~/eosdots/root/etc/doas.conf" "/etc/"; sudo chown root:root "/etc/doas.conf"; sudo chmod 0400 "/etc/doas.conf"`
-    11. - `doas rm "~/eosdots/root/etc/dosa.conf"`
+    1. - `sudo cp "~/eos-dots-main/root/etc/doas.conf" "/etc/"; sudo chown root:root "/etc/doas.conf"; sudo chmod 0400 "/etc/doas.conf"`
+    11. - `doas rm "~/eos-dots-main/root/etc/dosa.conf"`
 
-2. `doas cp -r "~/eosdots/root/" "/"`
+2. `doas cp -r "~/eos-dots-main/root/" "/"`
     1. - `doas chown root:root "/etc/firewalld/firewalld.conf"; doas chmod 0600 "/etc/firewalld/firewalld.conf"; doas chown root:root "/etc/polkit-1/rules.d/10-disable-suspend.rules"; doas chmod 0600 "/etc/polkit-1/rules.d/10-disable-suspend.rules"`
-3.    `doas cp -r "~/eosdots/home/supertort0ise/" "~/"`
+3.    `doas cp -r "~/eos-dots-main/home/supertort0ise/" "~/"`
 4.    `doas locale-gen`
 5.    `doas pacman -S grub-btrfs dnscrypt-proxy bluez bluez-qt bluez-utils bluedevil`
 6.    `doas systemctl enable --now grub-btrfsd; doas systemctl enable --now cronie.service; doas systemctl enable --now dnscrypt-proxy.service; doas systemctl enable --now bluetooth`
