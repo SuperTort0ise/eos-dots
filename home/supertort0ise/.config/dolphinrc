@@ -1,0 +1,84 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[Baloo KEditCommentDialog]
+2 screens: Height=240
+2 screens: Width=268
+
+[CompactMode]
+IconSize=48
+PreviewSize=64
+
+[ContextMenu]
+ShowAddToPlaces=false
+ShowDuplicateHere=false
+ShowSortBy=false
+ShowViewMode=false
+
+[CreateDialog]
+LastMimeType=application/x-7z-compressed
+
+[DetailsMode]
+HighlightEntireRow=false
+IconSize=48
+SidePadding=0
+
+[ExtractDialog]
+DP-2 DP-5 Height 1920x1080 DP-2=552
+DP-2 DP-5 Width 1920x1080 DP-2=1265
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+CloseActiveSplitView=false
+OpenNewTabAfterLastTab=true
+RememberOpenedTabs=false
+ShowFullPathInTitlebar=true
+ShowPasteBarAfterCopying=false
+ShowSpaceInfo=false
+Version=202
+ViewPropsTimestamp=2022,8,2,16,34,48.146
+
+[IconsMode]
+IconSize=64
+MaximumTextLines=2
+PreviewSize=32
+TextWidthIndex=0
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=
+Recent URLs[$e]=
+detailViewIconSize=16
+iconViewIconSize=64
+
+[KPropertiesDialog]
+2 screens: Height=602
+2 screens: Width=488
+DP-2 DP-5 Height 1440x900=616
+DP-2 DP-5 Height 1440x900 DP-5=590
+DP-2 DP-5 Height 1920x1080=590
+DP-2 DP-5 Height 1920x1080 DP-2=500
+DP-2 DP-5 Width 1440x900=500
+DP-2 DP-5 Width 1440x900 DP-5=510
+DP-2 DP-5 Width 1920x1080=514
+DP-2 DP-5 Width 1920x1080 DP-2=482
+DP-2 Height 1920x1080=436
+DP-2 Height 1920x1080 DP-2=518
+DP-2 Width 1920x1080=424
+DP-2 Width 1920x1080 DP-2=472
+DP-5 DP-2 Height 1920x1080 DP-2=436
+DP-5 DP-2 Width 1920x1080 DP-2=419
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=ka,ar,moo
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail

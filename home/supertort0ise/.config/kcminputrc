@@ -1,0 +1,28 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[Libinput][6940][6985][Corsair CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard Mouse]
+Enabled=false
+PointerAcceleration=-0.800
+PointerAccelerationProfile=1
+
+[Libinput][6940][7064][Corsair CORSAIR SABRE RGB PRO WIRELESS Gaming Mouse]
+Enabled=false
+PointerAcceleration=-0.800
+PointerAccelerationProfile=1
+
+[Libinput][6940][7078][Corsair CORSAIR SLIPSTREAM WIRELESS USB Receiver]
+PointerAcceleration=-0.800
+PointerAccelerationProfile=1
+
+[Libinput][6940][7078][Corsair CORSAIR SLIPSTREAM WIRELESS USB Receiver Keyboard]
+Enabled=false
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptAccelProfileFlat=true
+XLbInptPointerAcceleration=-0.8
+cursorTheme=Reisen
+
+[Tmp]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

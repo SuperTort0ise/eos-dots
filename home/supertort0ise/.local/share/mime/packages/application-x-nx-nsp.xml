@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="application/x-nx-nsp">
+        <comment>Nintendo Submission Package</comment>
+        <icon name="org.ryujinx.Ryujinx"/>
+        <glob-deleteall/>
+        <glob pattern="*.nsp"/>
+    </mime-type>
+</mime-info>

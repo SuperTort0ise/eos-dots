@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-xbox">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <icon name="app.xemu.xemu"/>
+  <glob-deleteall/>
+  <glob pattern="*marz.iso"/>
+</mime-type>

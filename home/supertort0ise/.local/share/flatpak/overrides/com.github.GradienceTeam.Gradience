@@ -1,0 +1,2 @@
+[Context]
+filesystems=!~/.mozilla/firefox;!~/.var/app/org.mozilla.firefox/.mozilla/firefox;!~/.librewolf;!~/.var/app/io.gitlab.librewolf-community/.librewolf

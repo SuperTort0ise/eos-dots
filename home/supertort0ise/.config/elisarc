@@ -1,0 +1,12 @@
+[ElisaFileIndexer]
+RootPath[$e]=$HOME/Music
+
+[PlayerSettings]
+ScanAtStartup=false
+UseFavoriteStyleRatings=true
+
+[UiSettings]
+ColorScheme=
+
+[Views]
+ColorScheme=Default

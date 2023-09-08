@@ -1,0 +1,6 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-250-0e916d22-bb85-42cf-a3d7-483ada786d41]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:com.github.tchx84.Flatseal.desktop,applications:org.ryujinx.Ryujinx.desktop,applications:org.yuzu_emu.yuzu.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-250-global]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:com.github.tchx84.Flatseal.desktop,applications:org.ryujinx.Ryujinx.desktop,applications:org.yuzu_emu.yuzu.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:org.kde.discover.desktop
+

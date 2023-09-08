@@ -1,0 +1,8 @@
+[General]
+ColorScheme=PaxDarkColor
+
+[Icons]
+Theme=Shiny-Color-Dark-Icons
+
+[KDE]
+widgetStyle=Breeze

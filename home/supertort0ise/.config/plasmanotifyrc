@@ -1,0 +1,14 @@
+[Applications][com.spotify.Client]
+ShowBadges=false
+ShowInHistory=false
+
+[Jobs]
+PermanentPopups=false
+
+[Notifications]
+LowPriorityHistory=true
+PopupTimeout=2000
+
+[Services][kdeconnect]
+ShowInHistory=false
+ShowPopupsInDndMode=true

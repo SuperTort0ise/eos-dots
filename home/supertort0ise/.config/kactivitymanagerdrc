@@ -1,0 +1,14 @@
+[activities]
+0e916d22-bb85-42cf-a3d7-483ada786d41=Default
+6f333028-7b79-413e-a6d7-4c7d77e8880c=Game
+
+[activities-descriptions]
+0e916d22-bb85-42cf-a3d7-483ada786d41=TheDefault
+6f333028-7b79-413e-a6d7-4c7d77e8880c=Gameger
+
+[activities-icons]
+0e916d22-bb85-42cf-a3d7-483ada786d41=breeze-settings
+6f333028-7b79-413e-a6d7-4c7d77e8880c=pattern-games
+
+[main]
+currentActivity=0e916d22-bb85-42cf-a3d7-483ada786d41

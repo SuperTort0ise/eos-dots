@@ -1,0 +1,79 @@
+2 screens: Height=839
+2 screens: Width=1443
+2 screens: XPosition=245
+2 screens: YPosition=147
+DP-2 DP-5=DP-2
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABaMAAAMhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+CropRatioHeight=1
+CropRatioIndex=1
+CropRatioWidth=1
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[ImageView]
+AlphaBackgroundMode=AbstractImageView::AlphaBackgroundCheckBoard
+MouseWheelBehavior=MouseWheelBehavior::Zoom
+ThumbnailSplitterSizes=513,146
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+Recent Files[$e]=
+detailViewIconSize=16
+
+[KPropertiesDialog]
+2 screens: Height=436
+2 screens: Width=401
+
+[MainWindow]
+2 screens: Height=839
+2 screens: Width=1443
+2 screens: XPosition=245
+2 screens: YPosition=147
+DP-2 DP-5=DP-2
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABaMAAAMhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=
+File10[$e]=
+File2[$e]=
+File3[$e]=
+File4[$e]=
+File5[$e]=
+File6[$e]=
+File7[$e]=
+File8[$e]=
+File9[$e]=
+Name1[$e]=
+Name10[$e]=
+Name2[$e]=
+Name3[$e]=
+Name4[$e]=
+Name5[$e]=
+Name6[$e]=
+Name7[$e]=
+Name8[$e]=
+Name9[$e]=
+
+[SemanticInfoDialog]
+2 screens: Height=276
+2 screens: Width=272
+
+[SideBar]
+InformationSplitterSizes=334,141
+PreferredMetaInfoKeyList=General.Size,General.ImageSize,Exif.Photo.ExposureMode,Exif.CanonFi.BracketValue,Exif.Photo.MeteringMode,Exif.Image.Copyright,Exif.Photo.ShutterSpeedValue,Exif.Photo.FocalLength,Exif.Photo.Flash,Exif.Photo.WhiteBalance,Exif.Canon.ColorSpace,Exif.Photo.ExposureTime,Exif.CanonFi.BracketMode,Exif.Photo.ExposureBiasValue,Exif.CanonSi.BulbDuration,Exif.CanonSi.ISOSpeed,Exif.Canon.AFAreaMode,Exif.CanonCs.DriveMode,Exif.CanonCs.LensType,Exif.CanonSi.MeasuredEV,Exif.CanonPr.PictureStyle,Exif.Image2.Compression,Exif.CanonHdr.HDR,Exif.CanonCs.Quality,Exif.Image.DateTime,Exif.Image.Artist,Exif.CanonSi.NDFilter,Exif.Photo.ApertureValue,Exif.CanonCs.FlashActivity
+SideBarSplitterSizes=217,1219
+
+[StatusBar]
+IsVisible ViewMode=false

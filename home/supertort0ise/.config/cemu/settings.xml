@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <logflag>0</logflag>
+    <advanced_ppc_logging>false</advanced_ppc_logging>
+    <mlc_path>/mnt/2TB-S/Emu/BIOS/Nintendo_BIOS/Wii_U_NAND/mlc01</mlc_path>
+    <permanent_storage>true</permanent_storage>
+    <language>0</language>
+    <use_discord_presence>false</use_discord_presence>
+    <fullscreen_menubar>false</fullscreen_menubar>
+    <check_update>false</check_update>
+    <save_screenshot>true</save_screenshot>
+    <vk_warning>false</vk_warning>
+    <gp_download>true</gp_download>
+    <macos_disclaimer>false</macos_disclaimer>
+    <fullscreen>false</fullscreen>
+    <proxy_server></proxy_server>
+    <console_language>1</console_language>
+    <window_position>
+        <x>-1</x>
+        <y>-1</y>
+    </window_position>
+    <window_size>
+        <x>-1</x>
+        <y>-1</y>
+    </window_size>
+    <window_maximized>false</window_maximized>
+    <open_pad>false</open_pad>
+    <pad_position>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_position>
+    <pad_size>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_size>
+    <pad_maximized>false</pad_maximized>
+    <GameList>
+        <style>0</style>
+        <order></order>
+        <name_width>500</name_width>
+        <version_width>60</version_width>
+        <dlc_width>50</dlc_width>
+        <game_time_width>140</game_time_width>
+        <game_started_width>160</game_started_width>
+        <region_width>297</region_width>
+    </GameList>
+    <RecentLaunchFiles/>
+    <RecentNFCFiles/>
+    <GamePaths>
+        <Entry>/mnt/2TB-S/Emu/Nintendo/Wii-U/Cafe-Games</Entry>
+    </GamePaths>
+    <GameCache>
+        <Entry>
+            <title_id>1407375153861632</title_id>
+            <name></name>
+            <custom_name></custom_name>
+            <region>0</region>
+            <version>-1</version>
+            <dlc_version>-1</dlc_version>
+            <path></path>
+            <time_played>0</time_played>
+            <last_played>0</last_played>
+            <favorite>true</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153685760</title_id>
+            <name></name>
+            <custom_name></custom_name>
+            <region>0</region>
+            <version>-1</version>
+            <dlc_version>-1</dlc_version>
+            <path></path>
+            <time_played>0</time_played>
+            <last_played>0</last_played>
+            <favorite>true</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153313024</title_id>
+            <name></name>
+            <custom_name></custom_name>
+            <region>0</region>
+            <version>-1</version>
+            <dlc_version>-1</dlc_version>
+            <path></path>
+            <time_played>0</time_played>
+            <last_played>0</last_played>
+            <favorite>true</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153843456</title_id>
+            <name></name>
+            <custom_name></custom_name>
+            <region>0</region>
+            <version>-1</version>
+            <dlc_version>-1</dlc_version>
+            <path></path>
+            <time_played>0</time_played>
+            <last_played>0</last_played>
+            <favorite>true</favorite>
+        </Entry>
+    </GameCache>
+    <GraphicPack>
+        <Entry filename="graphicPacks/BreathOfTheWild_BCML/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Cheats/InfiniteMotorcycleEnergy/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Cheats/MotorcycleAllRegions/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Mods/DivineLaserBeam/rules.txt">
+            <Preset>
+                <category>Laser Opacity</category>
+                <preset>75%</preset>
+            </Preset>
+            <Preset>
+                <category>Laser Color</category>
+                <preset>Rainbow</preset>
+            </Preset>
+            <Preset>
+                <category>Color Saturation</category>
+                <preset>50%</preset>
+            </Preset>
+            <Preset>
+                <category>Show Laser</category>
+                <preset>Yes (Default)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Mods/DrawDistance/rules.txt">
+            <Preset>
+                <category>Texture Distance Detail (LOD)</category>
+                <preset>Much higher(-3)</preset>
+            </Preset>
+            <Preset>
+                <category>Grass Blades Density</category>
+                <preset>Ultra (experimental)</preset>
+            </Preset>
+            <Preset>
+                <category>Trees (2D Billboards)</category>
+                <preset>Ultra</preset>
+            </Preset>
+            <Preset>
+                <category>Terrain, Buildings, Bushes And Other Objects</category>
+                <preset>Ultra (1.5x, requires Extended Memory pack!)</preset>
+            </Preset>
+            <Preset>
+                <category>NPC, Enemies And Other Entities</category>
+                <preset>Ultra (1.5x)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Mods/FPS++/rules.txt">
+            <Preset>
+                <category>Frame Average</category>
+                <preset>8 Frames Averaged (Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Static Mode</category>
+                <preset>Disabled (Default, dynamically adjust game speed)</preset>
+            </Preset>
+            <Preset>
+                <category>Fence Type</category>
+                <preset>Performance Fence (Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Cutscene FPS Limit</category>
+                <preset>Automatically Limit In Few Cutscenes (Recommended)</preset>
+            </Preset>
+            <Preset>
+                <category>Framerate Limit</category>
+                <preset>165FPS (ideal for 165Hz displays)</preset>
+            </Preset>
+            <Preset>
+                <category>Debug Options</category>
+                <preset>Disabled (Default)</preset>
+            </Preset>
+            <Preset>
+                <category>FPS Limit</category>
+                <preset>60FPS Limit (Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Mode</category>
+                <preset>Advanced Settings</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Contrasty/rules.txt">
+            <Preset>
+                <preset>Gamecube style</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Mods/ExtendedMemory/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Shadows/rules.txt">
+            <Preset>
+                <preset>Ultra (300%)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1440</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/TwilightPrincessHD_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1080 (21:9 HD)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Mods/MenuCursorSpeed/rules.txt">
+            <Preset>
+                <category>Menu Navigation Speed</category>
+                <preset>1.1x</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/SkylandersSwapForce/Workarounds/PortalStabilityFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_LODBias/rules.txt">
+            <Preset>
+                <preset>LOD -1 (Max for gameplay)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Graphics/rules.txt">
+            <Preset>
+                <category>Shadows</category>
+                <preset>Ultra (300%)</preset>
+            </Preset>
+            <Preset>
+                <category>Anti-Aliasing</category>
+                <preset>NVIDIA FXAA</preset>
+            </Preset>
+            <Preset>
+                <category>Ultrawide HUD Mode</category>
+                <preset>Edge HUD (Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Shadow Draw Distance</category>
+                <preset>Very High (Recommended)</preset>
+            </Preset>
+            <Preset>
+                <category>Resolution</category>
+                <preset>2560x1440 (2K)</preset>
+            </Preset>
+            <Preset>
+                <category>Aspect Ratio</category>
+                <preset>16:9 (Default)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/!BreathOfTheWild_!DataLayer/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/BreathOfTheWild/Enhancements/rules.txt">
+            <Preset>
+                <category>Anisotropic Filtering</category>
+                <preset>Ultra (8x, Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Reflections</category>
+                <preset>Enhanced Reflections</preset>
+            </Preset>
+            <Preset>
+                <category>Depth Of Field</category>
+                <preset>Enabled</preset>
+            </Preset>
+            <Preset>
+                <category>Reflection Range</category>
+                <preset>Extreme (64 samples)</preset>
+            </Preset>
+            <Preset>
+                <category>Clarity</category>
+                <preset>Serfrost's Preset (Recommended)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/BreathOfTheWild_!LinkleMod_Dialogue/rules.txt"/>
+    </GraphicPack>
+    <Graphic>
+        <api>1</api>
+        <device>d4fc6544863753b53c23702de20a20eb</device>
+        <VSync>0</VSync>
+        <GX2DrawdoneSync>true</GX2DrawdoneSync>
+        <UpscaleFilter>0</UpscaleFilter>
+        <DownscaleFilter>0</DownscaleFilter>
+        <FullscreenScaling>0</FullscreenScaling>
+        <AsyncCompile>true</AsyncCompile>
+        <vkAccurateBarriers>true</vkAccurateBarriers>
+        <Overlay>
+            <Position>0</Position>
+            <TextColor>4289681312</TextColor>
+            <TextScale>100</TextScale>
+            <FPS>true</FPS>
+            <DrawCalls>false</DrawCalls>
+            <CPUUsage>true</CPUUsage>
+            <CPUPerCoreUsage>false</CPUPerCoreUsage>
+            <RAMUsage>true</RAMUsage>
+            <VRAMUsage>true</VRAMUsage>
+            <Debug>false</Debug>
+        </Overlay>
+        <Notification>
+            <Position>1</Position>
+            <TextColor>4289885696</TextColor>
+            <TextScale>100</TextScale>
+            <ControllerProfiles>true</ControllerProfiles>
+            <ControllerBattery>false</ControllerBattery>
+            <ShaderCompiling>true</ShaderCompiling>
+            <FriendService>true</FriendService>
+        </Notification>
+    </Graphic>
+    <Audio>
+        <api>3</api>
+        <delay>2</delay>
+        <TVChannels>1</TVChannels>
+        <PadChannels>1</PadChannels>
+        <InputChannels>0</InputChannels>
+        <TVVolume>50</TVVolume>
+        <PadVolume>0</PadVolume>
+        <InputVolume>50</InputVolume>
+        <TVDevice>easyeffects_sink</TVDevice>
+        <PadDevice>easyeffects_sink</PadDevice>
+        <InputDevice></InputDevice>
+    </Audio>
+    <Account>
+        <PersistentId>2147483650</PersistentId>
+        <OnlineEnabled>false</OnlineEnabled>
+        <ActiveService>0</ActiveService>
+    </Account>
+    <Debug>
+        <CrashDumpUnix>0</CrashDumpUnix>
+    </Debug>
+    <Input>
+        <DSUC host="127.0.0.1" port="26760"/>
+    </Input>
+</content>

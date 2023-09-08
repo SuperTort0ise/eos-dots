@@ -1,0 +1,11 @@
+[Face-94920553440704][org.kde.ksysguard.applicationstable][General]
+columnDisplay={"ioCharactersActuallyReadRate":"text","ioCharactersActuallyWrittenRate":"text","name":"hidden","netInbound":"text","netOutbound":"text","niceLevel":"text","nvidia_memory":"text","nvidia_usage":"text","parentPid":"hidden","pid":"text","status":"hidden","usage":"text","username":"text","vmPSS":"text"}
+columnWidths=0.36455026455026457,0.05194805194805195,0.05131860299358518,0.05131860299358518,0.06771204561653599,0.05844618674269423,0.05131860299358518,0.05131860299358518,0.05131860299358518,0.07215007215007214,0.06132756132756133,0.07138179436804191
+detailsWidth=504
+sortedColumns=appName,pid,usage,nvidia_usage,nvidia_memory,netInbound,netOutbound,ioCharactersActuallyReadRate,ioCharactersActuallyWrittenRate,vmPSS,username,status,niceLevel,euid,command,ioWriteSyscalls,totalUsage,ioCharactersWritten,numThreads,sysUsage,ioCharactersRead,gid,tty,suid,ioniceLevel,tracerpid,fsgid,totalSysUsage,userUsage,login,userTime,fsuid,vmShared,sysTime,parentPid,vmSize,ioCharactersWrittenRate,name,ioPriorityClass,totalUserUsage,vmURSS,uid,ioReadSyscallsRate,startTime,canUserLogin,sgid,ioReadSyscalls,egid,ioCharactersActuallyRead,menuId,iconName,scheduler,ioCharactersReadRate,appName
+
+[page]
+loadType=
+
+[page][row-0]
+heightMode=maximum

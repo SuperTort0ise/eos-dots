@@ -1,0 +1,115 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5IAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAACmAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+DP-2 DP-5 Height 1920x1080=640
+DP-2 DP-5 Width 1920x1080=1100
+
+[FileDialogSize]
+2 screens: Height=588
+2 screens: Width=972
+DP-2 DP-5 Height 1440x900 DP-5=588
+DP-2 DP-5 Height 1920x1080=560
+DP-2 DP-5 Width 1440x900 DP-5=972
+DP-2 DP-5 Width 1920x1080=1051
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=application-x-plasma.svg,file:$HOME/.local/share/-themestuff/img/icon/plasma-48b0.svg,file:$HOME/.local/share/-themestuff/img/icon/plasma-3d1c.svg,file:$HOME/.local/share/-themestuff/img/wallpaper/wall-ff82.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/wall-afe3.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/wall-658f.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/shadow-178d.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/rushia-90b7.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/miku-407e.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/lulu-9bb4.jxl,file:$HOME/.local/share/-themestuff/img/wallpaper/arona-4f17.jxl,file:$HOME/Pictures/pix/Wallpapers/20230602_094218.jpg,file:$HOME/Pictures/pix/Wallpapers/20230711_192653.jpg,file:$HOME/Pictures/pix/Wallpapers/101543001-1.png,file:$HOME/Pictures/pix/Wallpapers/20230701_180845.jpg,file:$HOME/Pictures/pix/Wallpapers/20230702_110719.jpg
+Recent URLs[$e]=file:$HOME/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/Downloads/,file:$HOME/Pictures/pix/Wallpapers/,file:$HOME/Pictures/pix/,file:$HOME/Pictures/icon/desktop/,file:$HOME/.local/share/-themestuff/img/wallpaper/,file:$HOME/.local/share/-themestuff/img/,file:$HOME/.local/share/-themestuff/img/icon/
+detailViewIconSize=16
+iconViewIconSize=128
+listViewIconSize=64
+
+[KPropertiesDialog]
+2 screens: Height=500
+2 screens: Width=419
+DP-2 DP-5 Height 1920x1080=446
+DP-2 DP-5 Height 1920x1080 DP-2=500
+DP-2 DP-5 Width 1920x1080=419
+DP-2 DP-5 Width 1920x1080 DP-2=813
+DP-2 Height 1920x1080=446
+DP-2 Width 1920x1080=461
+
+[Notification Messages]
+klipperClearHistoryAskAgain=false
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaTransientsConfig]
+PreloadWeight=44
+
+[PlasmaViews][Panel 121]
+alignment=132
+
+[PlasmaViews][Panel 121][Defaults]
+maxLength=1446
+minLength=1446
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 121][Horizontal1920]
+maxLength=1446
+minLength=1446
+
+[PlasmaViews][Panel 146][Defaults]
+offset=0
+
+[PlasmaViews][Panel 167]
+floating=0
+panelOpacity=0
+panelVisibility=0
+
+[PlasmaViews][Panel 167][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 190][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 192]
+panelVisibility=1
+
+[PlasmaViews][Panel 192][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 213]
+floating=1
+
+[PlasmaViews][Panel 213][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 28][Defaults]
+offset=0
+thickness=52
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 54][Defaults]
+maxLength=1536
+minLength=1536
+offset=0
+thickness=24
+
+[PlasmaViews][Panel 54][Horizontal1920]
+maxLength=1536
+minLength=1536
+
+[PlasmaViews][Panel 75][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 98][Defaults]
+thickness=44
+
+[ScreenConnectors]
+0=DP-2
+1=:0.0
+2=DP-1
+3=DP-5
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js

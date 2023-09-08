@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-dreamcast-rom">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Dreamcast disc image</comment>
+  <icon name="org.flycast.Flycast"/>
+  <glob-deleteall/>
+  <glob pattern="*katana.bin"/>
+  <glob pattern="*katana.cdi"/>
+  <glob pattern="*katana.gdi"/>
+  <glob pattern="*katana.raw"/>
+</mime-type>

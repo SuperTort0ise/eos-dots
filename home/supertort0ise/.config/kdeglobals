@@ -1,0 +1,175 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=1
+ColorEffect=1
+ContrastAmount=0.45
+ContrastEffect=2
+Enable=false
+IntensityAmount=0.1
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=80,84,138
+BackgroundNormal=29,33,47
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=152,159,172
+ForegroundLink=102,106,178
+ForegroundNegative=218,68,83
+ForegroundNeutral=7,113,129
+ForegroundNormal=211,218,227
+ForegroundPositive=0,167,122
+ForegroundVisited=119,178,245
+
+[Colors:Complementary]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=152,159,172
+ForegroundLink=102,106,178
+ForegroundNeutral=7,113,129
+ForegroundNormal=211,218,227
+ForegroundPositive=0,170,127
+ForegroundVisited=124,183,255
+
+[Colors:Header]
+BackgroundNormal=29,33,47
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=152,159,172
+ForegroundLink=102,106,178
+ForegroundNegative=218,68,83
+ForegroundVisited=124,183,255
+
+[Colors:Selection]
+BackgroundAlternate=78,82,136
+BackgroundNormal=78,82,136
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=255,255,255
+ForegroundLink=102,106,178
+ForegroundNegative=218,68,83
+ForegroundNeutral=7,113,129
+ForegroundNormal=255,255,255
+ForegroundPositive=0,167,122
+ForegroundVisited=124,183,255
+
+[Colors:Tooltip]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=133,138,150
+ForegroundLink=102,106,178
+ForegroundNegative=218,68,83
+ForegroundNeutral=7,113,129
+ForegroundNormal=211,218,227
+ForegroundPositive=0,167,122
+ForegroundVisited=124,183,255
+
+[Colors:View]
+BackgroundAlternate=29,33,47
+BackgroundNormal=24,28,39
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=152,159,172
+ForegroundLink=102,106,178
+ForegroundNegative=218,68,83
+ForegroundNeutral=7,113,129
+ForegroundNormal=211,218,227
+ForegroundPositive=0,167,122
+ForegroundVisited=124,183,255
+
+[Colors:Window]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=102,106,178
+DecorationHover=102,106,178
+ForegroundActive=102,106,178
+ForegroundInactive=152,159,172
+ForegroundLink=102,106,178
+ForegroundNegative=218,68,83
+ForegroundNeutral=7,113,129
+ForegroundNormal=211,218,227
+ForegroundPositive=0,167,122
+ForegroundVisited=124,183,255
+
+[DesktopGrid]
+ShowDesktopGrid=Meta+Shift+W
+
+[DirSelect Dialog]
+DirSelectDialog Size=840,584
+History Items[$e]=
+
+[General]
+AccentColor=102,106,178
+BrowserApplication=librewolf.desktop
+ColorScheme=PaxDarkColor
+ColorSchemeHash=e0063777e92584ea87eac8f49a9ad4fccb3a0744
+accentColorFromWallpaper=true
+
+[Icons]
+Theme=Infinity-Dark-Icons
+
+[KDE]
+AnimationDurationFactor=0.7071067811865475
+LookAndFeelPackage=Peace-Color-Global
+ShowDeleteCommand=false
+widgetStyle=kvantum-dark
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=133
+View Style=Detail
+
+[KShortcutsDialog Settings]
+Dialog Size=822,483
+
+[PreviewSettings]
+MaximumRemoteSize=10485760
+MaximumSize=33554432
+
+[WM]
+activeBackground=29,33,47
+activeBlend=29,33,47
+activeForeground=211,218,227
+inactiveBackground=29,33,47
+inactiveBlend=29,33,47
+inactiveForeground=152,159,172

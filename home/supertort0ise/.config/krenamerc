@@ -1,0 +1,69 @@
+[ExtHistoryComboEXTENSION_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboEXTENSION_TEMPLATE]
+CompletionList=$:1
+HistoryList=$
+
+[ExtHistoryComboFILENAME_CUSTOM_TEMPLATE]
+CompletionList=KSSaveData:1
+HistoryList=KSSaveData
+
+[ExtHistoryComboFILENAME_TEMPLATE]
+CompletionList=$:1,$-psx:1,$-cube:1,$-katana:1,KSSaveData#{2}:1,%:2
+HistoryList=%,$,KSSaveData#{2},$-katana,$-cube,$-psx
+
+[ExtHistoryComboPREVIX_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboSUFFIX_CUSTOM_TEMPLATE]
+CompletionList=-psx:1,-cube:1,-katana:1
+HistoryList=-katana,-cube,-psx
+
+[GUISettings]
+Advanced=false
+Column0=100
+Column1=428
+ExtensionSplitDot=0
+ExtensionSplitMode=1
+FileListSorting=0
+FileListSortingCustomMode=0
+FileListSortingCustomToken=creationdate;yyyyMMddHHmm
+ImagePreview2=true
+ImagePreviewName2=true
+StartIndex=2
+Stepping=1
+firststart4=false
+
+[KFileDialog Settings]
+Recent Files[$e]=sp.xml,file:$HOME/Desktop/home/supertort0ise/.themes/sfx/sp.xml
+Recent URLs[$e]=file:$HOME/Desktop/home/supertort0ise/.themes/sfx/wii/,file:$HOME/Desktop/home/supertort0ise/.themes/sfx/,file:$HOME/Desktop/home/supertort0ise/.themes/sfx/switch/,file:$HOME/Desktop/home/supertort0ise/.themes/sfx/madobe/
+detailViewIconSize=16
+
+[KRenameWindowSettings]
+2 screens: Height=534
+2 screens: Width=640
+2 screens: XPosition=640
+2 screens: YPosition=291
+DP-2 DP-5=DP-2
+DP-2 DP-5 XPosition 1920x1080 DP-2=640
+DP-2 DP-5 YPosition 1920x1080 DP-2=290
+RestorePositionForNextInstance=false
+
+[PluginSettings]
+JavaScriptDefinitions=
+JavaScriptVariableNames=
+JavaScriptVariableTypes=
+JavaScriptVariableValues=
+
+[TokenHelpDialog]
+Column0=82
+Column1=449
+Column2=100
+Geometry=\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01/\x00\x00\x01+\x00\x00\x06<\x00\x00\x02\x90\x00\x00\x013\x00\x00\x01G\x00\x00\x068\x00\x00\x02\x8c\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x013\x00\x00\x01G\x00\x00\x068\x00\x00\x02\x8c
+LastSelectedCategory=
+Preview=true
+RecentTokens=$;;old filename
+Splitter=628,627

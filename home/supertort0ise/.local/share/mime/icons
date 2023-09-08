@@ -1,0 +1,11 @@
+application/x-nx-nso:org.ryujinx.Ryujinx
+application/x-nx-nro:org.ryujinx.Ryujinx
+application/x-xbox:app.xemu.xemu
+application/x-wii-wad:org.DolphinEmu.dolphin-emu
+application/x-nx-nca:org.ryujinx.Ryujinx
+application/x-dreamcast-rom:org.flycast.Flycast
+application/x-wii-rom:org.DolphinEmu.dolphin-emu
+application/x-gamecube-rom:org.DolphinEmu.dolphin-emu
+application/x-playstation-2:net.pcsx2.PCSX2
+application/x-nx-nsp:org.ryujinx.Ryujinx
+application/x-playstation:org.duckstation.DuckStation

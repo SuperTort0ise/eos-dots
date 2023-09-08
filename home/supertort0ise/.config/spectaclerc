@@ -1,0 +1,22 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[Annotations]
+ellipseStrokeColor=255,255,0
+lineStrokeColor=113,11,255
+numberFillColor=99,255,82
+textFontColor=255,255,255
+
+[General]
+onLaunchAction=UseLastUsedCapturemode
+
+[GuiConfig]
+captureMode=0
+
+[KFileDialog Settings]
+Recent Files[$e]=
+Recent URLs[$e]=
+
+[Save]
+lastSaveAsLocation=
+lastSaveLocation=

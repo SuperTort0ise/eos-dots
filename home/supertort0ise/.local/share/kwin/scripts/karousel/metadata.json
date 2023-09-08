@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Name": "Karousel",
+        "Description": "Manual columnar tiling extension for KWin",
+        "Icon": "preferences-system-windows",
+        "Authors": [{
+            "Email": "peter.fajdiga@gmail.com",
+            "Name": "Peter Fajdiga"
+        }],
+        "Id": "karousel",
+        "ServiceTypes": ["KWin/Script"],
+        "Version": "0.3.1",
+        "License": "GPLv3",
+        "Website": "https://github.com/peterfajdiga/karousel",
+        "BugReportUrl": "https://github.com/peterfajdiga/karousel/issues"
+    },
+    "X-Plasma-API": "declarativescript",
+    "X-Plasma-MainScript": "code/main.qml",
+    "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted"
+}

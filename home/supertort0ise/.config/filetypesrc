@@ -1,0 +1,11 @@
+[EmbedSettings]
+embed-application/json=false
+embed-application/x-trash=false
+embed-application/x-zerosize=false
+embed-application/xml=false
+embed-audio/mpeg=false
+embed-audio/x-mpegurl=false
+embed-audio/x-vorbis+ogg=false
+embed-audio/x-wav=false
+embed-image/x-canon-cr2=false
+embed-video/x-matroska=false

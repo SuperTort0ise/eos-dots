@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="application/x-gamecube-rom">
+        <comment>GameCube disc image</comment>
+        <icon name="org.DolphinEmu.dolphin-emu"/>
+        <glob-deleteall/>
+        <glob pattern="*dolphin.iso"/>
+    </mime-type>
+</mime-info>

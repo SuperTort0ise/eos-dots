@@ -1,0 +1,534 @@
+[Face-93963330372192][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-93963331892064][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=Network
+
+[Face-93963331892064][SensorColors]
+network/all/downloadBits=30,255,190
+network/all/upload=104,69,134
+network/all/uploadBits=255,50,200
+
+[Face-93963331892064][Sensors]
+highPrioritySensorIds=["network/all/downloadBits","network/all/uploadBits"]
+lowPrioritySensorIds=["network/all/totalDownload","network/all/totalUpload"]
+
+[Face-93984456663376][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=GPU
+
+[Face-93984456663376][SensorColors]
+gpu/all/usage=69,100,134
+gpu/all/usedVram=134,69,91
+gpu/gpu0/coreFrequency=0,150,0
+gpu/gpu0/memoryFrequency=48,100,0
+gpu/gpu0/temperature=115,69,134
+gpu/gpu0/usage=0,255,69
+gpu/gpu0/usedVram=0,200,90
+
+[Face-93984456663376][SensorLabels]
+gpu/gpu0/coreFrequency=Frequency
+gpu/gpu0/memoryFrequency=Memory Frequency
+gpu/gpu0/power=Power
+gpu/gpu0/temperature=Temperature
+gpu/gpu0/totalVram=Total VRAM
+gpu/gpu0/usage=Usage
+gpu/gpu0/usedVram=Used VRAM
+
+[Face-93984456663376][Sensors]
+highPrioritySensorIds=["gpu/gpu0/usage"]
+lowPrioritySensorIds=["gpu/gpu0/coreFrequency","gpu/gpu0/memoryFrequency","gpu/gpu0/temperature","gpu/gpu0/power","gpu/gpu0/usedVram","gpu/gpu0/totalVram"]
+
+[Face-94107109903664][Appearance]
+chartFace=org.kde.ksysguard.linechart
+
+[Face-94107109903664][FaceGrid][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+
+[Face-94107109903664][FaceGrid][SensorColors]
+cpu/cpu0/usage=255,166,201
+cpu/cpu1/usage=255,175,166
+cpu/cpu10/usage=220,166,255
+cpu/cpu11/usage=255,166,246
+cpu/cpu2/usage=255,220,166
+cpu/cpu3/usage=246,255,166
+cpu/cpu4/usage=201,255,166
+cpu/cpu5/usage=166,255,175
+cpu/cpu6/usage=166,255,220
+cpu/cpu7/usage=166,246,255
+cpu/cpu8/usage=166,201,255
+cpu/cpu9/usage=175,166,255
+
+[Face-94107109903664][FaceGrid][Sensors]
+highPrioritySensorIds=["cpu/cpu11/usage"]
+
+[Face-94107109903664][SensorColors]
+cpu/cpu0/usage=255,166,201
+cpu/cpu1/usage=255,175,166
+cpu/cpu10/usage=220,166,255
+cpu/cpu11/usage=255,166,246
+cpu/cpu2/usage=255,220,166
+cpu/cpu3/usage=246,255,166
+cpu/cpu4/usage=201,255,166
+cpu/cpu5/usage=166,255,175
+cpu/cpu6/usage=166,255,220
+cpu/cpu7/usage=166,246,255
+cpu/cpu8/usage=166,201,255
+cpu/cpu9/usage=175,166,255
+
+[Face-94107109903664][Sensors]
+lowPrioritySensorIds=[]
+
+[Face-94107109903664][org.kde.ksysguard.linechart][General]
+lineChartFillOpacity=99
+
+[Face-94107115022400][SensorColors]
+memory/physical/used=255,50,200
+memory/swap/used=30,255,190
+
+[Face-94107115022400][Sensors]
+highPrioritySensorIds=[]
+
+[Face-94107150101264][SensorColors]
+network/all/download=255,166,201
+network/all/downloadBits=255,71,89
+network/all/upload=166,255,220
+network/all/uploadBits=80,223,255
+
+[Face-94107150101264][Sensors]
+highPrioritySensorIds=["network/all/downloadBits","network/all/uploadBits"]
+lowPrioritySensorIds=["network/all/totalDownload","network/all/totalUpload"]
+
+[Face-94129812215104][Appearance]
+chartFace=org.kde.ksysguard.linechart
+title=GPU
+
+[Face-94129812312592][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94129825033840][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=GPU Usage
+updateRateLimit=0
+
+[Face-94129825033840][SensorColors]
+gpu/gpu0/coreFrequency=255,166,226
+gpu/gpu0/temperature=166,255,232
+gpu/gpu0/usage=0,255,0
+gpu/gpu0/usedVram=255,166,244
+
+[Face-94129825033840][SensorLabels]
+gpu/gpu0/coreFrequency=GPU Frequency
+gpu/gpu0/memoryFrequency=GPU Memory Frequency
+gpu/gpu0/temperature=GPU Temperature
+gpu/gpu0/usage=GPU Usage
+gpu/gpu0/usedVram=GPU Video Memory Used
+
+[Face-94129825033840][Sensors]
+highPrioritySensorIds=["gpu/gpu0/usage"]
+lowPrioritySensorIds=["gpu/gpu0/coreFrequency","gpu/gpu0/memoryFrequency","gpu/gpu0/temperature","gpu/gpu0/usedVram"]
+
+[Face-94129832702208][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94129836061504][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94129842787952][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=CPU Frequency
+
+[Face-94129842787952][SensorColors]
+cpu/cpu\requency=245,255,166
+cpu/cpu0/frequency=245,255,166
+cpu/cpu1/frequency=184,166,255
+cpu/cpu10/frequency=255,166,233
+cpu/cpu11/frequency=255,126,128
+cpu/cpu2/frequency=166,232,255
+cpu/cpu3/frequency=166,255,208
+cpu/cpu4/frequency=255,166,233
+cpu/cpu5/frequency=255,126,128
+cpu/cpu6/frequency=245,255,166
+cpu/cpu7/frequency=184,166,255
+cpu/cpu8/frequency=166,232,255
+cpu/cpu9/frequency=166,255,208
+
+[Face-94129842787952][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/frequency"]
+
+[Face-94129842787952][org.kde.ksysguard.linechart][General]
+lineChartFillOpacity=5
+
+[Face-94314291389856][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=CPU Frequency
+
+[Face-94314291389856][SensorColors]
+cpu/cpu\requency=134,122,69
+cpu/cpu0/frequency=245,255,166
+cpu/cpu1/frequency=184,166,255
+cpu/cpu10/frequency=255,166,233
+cpu/cpu11/frequency=255,126,128
+cpu/cpu2/frequency=166,232,255
+cpu/cpu3/frequency=166,255,208
+cpu/cpu4/frequency=255,166,233
+cpu/cpu5/frequency=255,126,128
+cpu/cpu6/frequency=245,255,166
+cpu/cpu7/frequency=184,166,255
+cpu/cpu8/frequency=166,232,255
+cpu/cpu9/frequency=166,255,208
+
+[Face-94314291389856][SensorLabels]
+cpu/cpu0/frequency=Core 1 Frequency
+cpu/cpu0/temperature=Core 1 Temperature
+cpu/cpu1/frequency=Core 2 Frequency
+cpu/cpu1/temperature=Core 2 Temperature
+cpu/cpu10/frequency=Core 11 Frequency
+cpu/cpu10/temperature=Core 11 Temperature
+cpu/cpu11/frequency=Core 12 Frequency
+cpu/cpu11/temperature=Core 12 Temperature
+cpu/cpu2/frequency=Core 3 Frequency
+cpu/cpu2/temperature=Core 3 Temperature
+cpu/cpu3/frequency=Core 4 Frequency
+cpu/cpu3/temperature=Core 4 Temperature
+cpu/cpu4/frequency=Core 5 Frequency
+cpu/cpu4/temperature=Core 5 Temperature
+cpu/cpu5/frequency=Core 6 Frequency
+cpu/cpu5/temperature=Core 6 Temperature
+cpu/cpu6/frequency=Core 7 Frequency
+cpu/cpu6/temperature=Core 7 Temperature
+cpu/cpu7/frequency=Core 8 Frequency
+cpu/cpu7/temperature=Core 8 Temperature
+cpu/cpu8/frequency=Core 9 Frequency
+cpu/cpu8/temperature=Core 9 Temperature
+cpu/cpu9/frequency=Core 10 Frequency
+cpu/cpu9/temperature=Core 10 Temperature
+
+[Face-94314291389856][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/frequency"]
+lowPrioritySensorIds=["cpu/cpu\\\\d+/temperature"]
+totalSensors=["cpu/cpu\\\\d+/frequency"]
+
+[Face-94314316163376][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=Memory
+
+[Face-94314316163376][SensorColors]
+memory/physical/used=80,223,255
+memory/physical/usedPercent=69,125,134
+memory/swap/used=255,71,89
+
+[Face-94314316163376][SensorLabels]
+memory/physical/total=Total Memory
+memory/physical/used=Used Memory
+memory/swap/total=Total Swap
+memory/swap/used=Used Swap
+
+[Face-94314316163376][Sensors]
+highPrioritySensorIds=["memory/physical/used","memory/swap/used"]
+lowPrioritySensorIds=["memory/physical/total","memory/swap/total"]
+totalSensors=["memory/physical/used"]
+
+[Face-94356423719312][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94412113376320][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=Network
+
+[Face-94412113376320][SensorColors]
+network/all/downloadBits=30,255,190
+network/all/upload=255,50,200
+
+[Face-94412113376320][Sensors]
+highPrioritySensorIds=["network/all/downloadBits","network/all/upload"]
+lowPrioritySensorIds=["network/all/totalDownload","network/all/totalUpload"]
+
+[Face-94538931452832][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94538967126192][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94583162780544][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=Network
+
+[Face-94583162780544][SensorColors]
+network/all/downloadBits=30,255,190
+network/all/upload=255,50,200
+
+[Face-94583162780544][SensorLabels]
+network/enp8s0/ipv4address=IPv4 Address
+network/enp8s0/ipv4withPrefixLength=IPv4/6
+network/enp8s0/ipv6address=IPv6 Address
+network/enp8s0/ipv6withPrefixLength=\s
+
+[Face-94583162780544][Sensors]
+highPrioritySensorIds=["network/all/downloadBits","network/all/upload"]
+lowPrioritySensorIds=["network/all/totalDownload","network/all/totalUpload","network/enp8s0/ipv4withPrefixLength","network/enp8s0/ipv6withPrefixLength"]
+
+[Face-94650406434048][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94650413378800][Appearance]
+chartFace=org.kde.ksysguard.linechart
+
+[Face-94650413378800][SensorColors]
+cpu/cpu\temperature=118,134,69
+cpu/cpu1/temperature=132,134,69
+cpu/cpu10/temperature=134,69,113
+cpu/cpu11/temperature=94,134,69
+cpu/cpu2/temperature=133,69,134
+cpu/cpu3/temperature=117,134,69
+cpu/cpu4/temperature=134,70,69
+cpu/cpu5/temperature=134,88,69
+cpu/cpu6/temperature=69,134,107
+cpu/cpu7/temperature=92,69,134
+cpu/cpu8/temperature=69,109,134
+cpu/cpu9/temperature=98,134,69
+
+[Face-94650413378800][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/temperature"]
+
+[Face-94650415088784][Appearance]
+chartFace=org.kde.ksysguard.textonly
+showTitle=false
+title=CPU Current Temperature
+
+[Face-94650415088784][SensorColors]
+cpu/cpu\temperature=69,134,78
+cpu/cpu0/temperature=245,255,166
+cpu/cpu1/temperature=184,166,255
+cpu/cpu10/temperature=255,166,233
+cpu/cpu11/temperature=255,126,128
+cpu/cpu2/temperature=166,232,255
+cpu/cpu3/temperature=166,255,208
+cpu/cpu4/temperature=255,166,233
+cpu/cpu5/temperature=255,126,128
+cpu/cpu6/temperature=245,255,166
+cpu/cpu7/temperature=184,166,255
+cpu/cpu8/temperature=166,232,255
+cpu/cpu9/temperature=166,255,208
+
+[Face-94650415088784][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/temperature"]
+totalSensors=[]
+
+[Face-94650443882528][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94752994579680][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94753086681152][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94753088724064][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=
+
+[Face-94753088724064][SensorColors]
+cpu/cpu age=113,69,134
+cpu/cpu0/system=69,88,134
+cpu/cpu0/usage=245,255,166
+cpu/cpu1/usage=184,166,255
+cpu/cpu10/usage=255,166,233
+cpu/cpu11/usage=255,126,128
+cpu/cpu2/usage=166,232,255
+cpu/cpu3/usage=166,255,208
+cpu/cpu4/usage=255,166,233
+cpu/cpu5/usage=255,126,128
+cpu/cpu6/usage=245,255,166
+cpu/cpu7/usage=184,166,255
+cpu/cpu8/usage=166,232,255
+cpu/cpu9/usage=166,255,208
+
+[Face-94753088724064][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/usage"]
+
+[Face-94753088724064][org.kde.ksysguard.linechart][General]
+lineChartStacked=true
+
+[Face-94774518678976][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=Memory
+
+[Face-94774518678976][SensorColors]
+memory/physical/application=134,69,75
+memory/physical/cache=69,90,134
+memory/physical/free=255,71,89
+memory/physical/total=134,77,69
+memory/physical/used=80,223,255
+memory/physical/usedPercent=84,134,69
+memory/swap/free=134,95,69
+memory/swap/used=255,71,89
+
+[Face-94774518678976][Sensors]
+highPrioritySensorIds=["memory/physical/used","memory/swap/used"]
+lowPrioritySensorIds=["memory/physical/free","memory/swap/free"]
+totalSensors=[]
+
+[Face-94794337922672][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+
+[Face-94794337922672][SensorColors]
+cpu/cpu\requency=69,72,134
+cpu/cpu0/frequency=245,255,166
+cpu/cpu1/frequency=184,166,255
+cpu/cpu10/frequency=255,166,233
+cpu/cpu11/frequency=255,126,128
+cpu/cpu2/frequency=166,232,255
+cpu/cpu3/frequency=166,255,208
+cpu/cpu4/frequency=255,166,233
+cpu/cpu5/frequency=255,126,128
+cpu/cpu6/frequency=245,255,166
+cpu/cpu7/frequency=184,166,255
+cpu/cpu8/frequency=166,232,255
+cpu/cpu9/frequency=166,255,208
+
+[Face-94794337922672][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/frequency"]
+
+[Face-94794337922672][org.kde.ksysguard.linechart][General]
+lineChartFillOpacity=5
+
+[Face-94800005194896][Appearance]
+chartFace=org.kde.ksysguard.piechart
+
+[Face-94800017512832][Appearance]
+chartFace=org.kde.ksysguard.linechart
+showTitle=false
+title=CPU Total Usage
+
+[Face-94800017512832][SensorColors]
+cpu/cpu age=69,76,134
+cpu/cpu0/usage=245,255,166
+cpu/cpu1/usage=184,166,255
+cpu/cpu10/usage=255,166,233
+cpu/cpu11/usage=255,126,128
+cpu/cpu2/usage=166,232,255
+cpu/cpu3/usage=166,255,208
+cpu/cpu4/usage=255,166,233
+cpu/cpu5/usage=255,126,128
+cpu/cpu6/usage=245,255,166
+cpu/cpu7/usage=184,166,255
+cpu/cpu8/usage=166,232,255
+cpu/cpu9/usage=166,255,208
+
+[Face-94800017512832][SensorLabels]
+cpu/cpu0/usage=Core 1 Usage
+cpu/cpu1/usage=Core 2 Usage
+cpu/cpu10/usage=Core 11 Usage
+cpu/cpu11/usage=Core 12 Usage
+cpu/cpu2/usage=Core 3 Usage
+cpu/cpu3/usage=Core 4 Usage
+cpu/cpu4/usage=Core 5 Usage
+cpu/cpu5/usage=Core 6 Usage
+cpu/cpu6/usage=Core 7 Usage
+cpu/cpu7/usage=Core 8 Usage
+cpu/cpu8/usage=Core 9 Usage
+cpu/cpu9/usage=Core 10 Usage
+
+[Face-94800017512832][Sensors]
+highPrioritySensorIds=["cpu/cpu\\\\d+/usage"]
+
+[Face-94800017512832][org.kde.ksysguard.linechart][General]
+historyAmount=56
+lineChartFillOpacity=20
+
+[page]
+actionsFace=
+
+[page][row-0]
+Title=GPU
+
+[page][row-1]
+Title=
+heightMode=balanced
+isTitle=false
+
+[page][row-1][column-0]
+name=column-0
+noMargins=
+showBackground=false
+
+[page][row-1][column-0][section-0]
+face=Face-93984456663376
+isSeparator=false
+name=section-0
+
+[page][row-2]
+Title=CPU
+heightMode=minimum
+isTitle=true
+
+[page][row-3]
+Title=
+heightMode=balanced
+isTitle=false
+
+[page][row-3][column-0]
+name=column-0
+noMargins=
+showBackground=false
+
+[page][row-3][column-0][section-0]
+face=Face-94314291389856
+isSeparator=false
+name=section-0
+
+[page][row-3][column-0][section-1]
+face=Face-94800005194896
+isSeparator=true
+name=section-1
+
+[page][row-3][column-0][section-2]
+face=Face-94800017512832
+isSeparator=false
+name=section-2
+
+[page][row-4]
+Title=Memory/Network
+heightMode=minimum
+isTitle=true
+name=row-4
+
+[page][row-5]
+Title=
+heightMode=balanced
+isTitle=false
+name=row-5
+
+[page][row-5][column-0]
+name=column-0
+noMargins=
+showBackground=false
+
+[page][row-5][column-0][section-0]
+face=Face-94314316163376
+isSeparator=false
+name=section-0
+
+[page][row-5][column-0][section-1]
+face=Face-93963330372192
+isSeparator=true
+name=section-1
+
+[page][row-5][column-0][section-2]
+face=Face-93963331892064
+isSeparator=false
+name=section-2

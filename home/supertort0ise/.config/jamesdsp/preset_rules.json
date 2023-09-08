@@ -1,0 +1,7 @@
+[
+    {
+        "deviceId": "alsa_output.pci-0000_0f_00.4.analog-stereo",
+        "deviceName": "System-Out",
+        "preset": "HyperX_C-2"
+    }
+]
