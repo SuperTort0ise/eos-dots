@@ -1,0 +1,33 @@
+{
+    "profiles": {
+        "Playstation-5": {
+            "accel": "x+y-z+",
+            "gyro": "x+y-z+",
+            "gyroSensitivity": 0.50
+        },
+        "Playstation-4": {
+            "accel": "x+y-z+",
+            "gyro": "z+x-y+",
+            "gyroSensitivity": 0.40
+        },
+        "Playstation-3": {
+            "accel": "x+y-z+",
+            "gyro": "z+x-y+",
+            "gyroSensitivity": 0.40
+    }
+    },
+    "devices": [
+        {
+            "name": "Sony PLAYSTATION(R)3 Controller Motion Sensors",
+            "profile": "Playstation-3"
+        },
+        {
+            "name": "Sony Interactive Entertainment Wireless Controller Motion Sensors",
+            "profile": "Playstation-5"
+        },
+        {
+            "name": "Wireless Controller Motion Sensors",
+            "profile": "Playstation-4"
+        }
+    ]
+} 
