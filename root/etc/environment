@@ -1,0 +1,27 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+#QT_QPA_PLATFORMTHEME=wayland
+#GTK_IM_MODULE=fcitx
+#QT_IM_MODULE=fcitx
+#XMODIFIERS=@im=fcitx
+GBM_BACKEND=nvidia-drm
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+QT_STYLE_OVERRIDE=kvantum
+KWIN_X11_REFRESH_RATE=165000
+MANGOHUD=1
+EDITOR=nano
+BROWSER=firefox
+MOZ_DISABLE_RDD_SANDBOX=1
+MOZ_X11_EGL=1
+GTK_USE_PORTAL=1
+LANG=en_US.UTF-8
+LC_ALL=
+LC_TIME=en_AG.UTF-8
+VDPAU_DRIVER=nvidia
+LIBVA_DRIVER_NAME=nvidia
+NVD_BACKEND=direct
+
+

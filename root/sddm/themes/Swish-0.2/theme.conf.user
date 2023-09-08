@@ -1,0 +1,8 @@
+[General]
+background=../bg/bg-23d2.jxl
+color=#f5f1ff
+font="Noto Sans"
+fontSize=
+highlight_color=#f5f1ff
+selected_color=#c87abb
+type=image

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone>
+  <service name="audiorelay"/>
+  <service name="dhcpv6-client"/>
+  <service name="kdeconnect"/>
+  <service name="mdns"/>
+  <service name="qbittorrent"/>
+  <service name="samba-client"/>
+  <service name="ssh"/>
+  <service name="steam-streaming"/>
+  <service name="tachidesk-server"/>
+  <service name="monero"/>
+  <service name="zerotier"/>
+  <service name="ftps"/>
+  <service name="sftp"/>
+  <service name="1-all-open"/>
+</zone>

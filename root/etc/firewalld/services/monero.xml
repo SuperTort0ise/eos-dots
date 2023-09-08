@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <port port="18080" protocol="tcp"/>
+  <port port="37889" protocol="tcp"/>
+  <port port="37888" protocol="tcp"/>
+  <port port="180" protocol="tcp"/>
+  <port port="34567" protocol="tcp"/>
+  <port port="34568" protocol="tcp"/>
+</service>

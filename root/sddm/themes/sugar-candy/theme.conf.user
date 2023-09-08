@@ -1,0 +1,53 @@
+##[General]
+background=../bg/bg-7a51.jxl
+type=image
+DimBackgroundImage="0.0"
+ScreenWidth="1920"
+ScreenHeight="1080"
+
+##[Blur Settings]
+PartialBlur="true"
+BlurRadius="60"
+
+##[Design Customizations]
+FormPosition="left"
+MainColor="#f5f1ff"
+## Colors can be HEX or Qt names.
+AccentColor="#c87abb"
+## Used for elements in focus/hover/pressed.
+BackgroundColor="#1f1d36"
+## Used for the user and session selection background.
+OverrideLoginButtonTextColor=""
+InterfaceShadowSize="6"
+## Integer used as multiplier. Size of the shadow behind the user and session selection background.
+InterfaceShadowOpacity="0.6"
+## Alpha channel of the shadow behind the user and session selection background.
+RoundCorners="20"
+## Integer in pixels. Radius of the input fields and the login button.
+Font="Noto Sans"
+FontSize=""
+
+##[Interface Behavior]
+ForceLastUser="true"
+ForcePasswordFocus="true"
+ForceHideCompletePassword="true"
+ForceHideVirtualKeyboardButton="false"
+ForceHideSystemButtons="true"
+
+##[Locale Settings]
+Locale=""
+HourFormat="hh:mm"
+DateFormat="dddd, dd of MMMM"
+
+##[Translations]
+HeaderText="Welcome!"
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <port port="1-65535" protocol="tcp"/>
+  <port port="1-65535" protocol="udp"/>
+</service>

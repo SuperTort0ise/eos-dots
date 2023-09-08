@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", ACTION=="add",ENV{ID_VENDOR_ID}=="1b1c", ENV{ID_MODEL_ID}=="1ba6" RUN+="/usr/local/bin/mousefix.sh"
